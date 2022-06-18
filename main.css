@@ -47,6 +47,7 @@ justify-content: space-around;
 }
 
 .card {
+padding-top: 20px;
 background-color: aqua;
 height: 600px;
 width: 300px;
