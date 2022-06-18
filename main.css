@@ -57,3 +57,27 @@ text-align: center;
 .card__title {
 
 }
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.61);
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.footer__description {
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 15px 30px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.footer__title {
+    margin: 0;
+    font-weight: 900;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+}
