@@ -21,7 +21,7 @@ h1, h2, h3{
     margin: 0;
 }
 .products {
-
+padding-top: 90px;
 }
 
 .products__header {
