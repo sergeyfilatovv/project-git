@@ -8,13 +8,11 @@ body{
     justify-content: center;
     height: 100%;
     align-items: center;
-    /* position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%); */
+    background-color: rgba(112, 14, 136, 0.345);
 }
 
 .header__title{
     margin: 0;
     font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
 }
