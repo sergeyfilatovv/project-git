@@ -1,2 +1,8 @@
-Ссылка на страничку - (https://sergeyfilatovv.github.io/project-git/)
-
+<h3>Ссылка на страничку - https://sergeyfilatovv.github.io/project-git/</h3>
+<ul>
+  <li>Это тестовый проект</li>
+  <li>Проект сделан при изучении платформы GitHub и системы контроля версий </li>
+  <li>Есть 3 section</li>
+  <li>В проекте использована БЭМ методология</li>
+  <li>Проект написан на чистом HTML5 и CSS3</li>
+</ul>
